@@ -1,0 +1,10 @@
+tools/windhawk-sdk/
+tools/*setup*.exe
+tools/windhawk-offline-fast.exe
+tools/7zr.exe
+tools/*-tree.json
+tools/compiler-reference.ts
+build/
+windhawk-release.json
+tools/python-packages/
+reference/
