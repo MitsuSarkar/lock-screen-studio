@@ -1,6 +1,9 @@
 # Publishing Lock Screen Studio 0.0.1
 
-Prepared locally for Mitsu, GitHub account `MitsuSarkar`. Nothing has been uploaded or submitted by this preparation.
+Submitted by Mitsu (`MitsuSarkar`): [Windhawk pull request #6770](https://github.com/ramensoftware/windhawk-mods/pull/6770).
+The [project repository](https://github.com/MitsuSarkar/lock-screen-studio) and all three screenshots are public.
+Catalog availability is pending maintainer review and merge. GitHub currently requires maintainer approval before the first-contributor validation workflows can run.
+The steps below document the submission process for reference.
 
 ## 1. Host the screenshots
 
